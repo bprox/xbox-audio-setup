@@ -7,7 +7,7 @@ Welcome! I created this page as a reference for my future self (and others) who 
 * Pin-pointing enemy location
 * Hearing nearby enemies before they attack
 
-<img src="https://media.giphy.com/media/kmdSKqlSHQJMs/giphy.gif" width="50%" height="50%"/>
+<img src="img\danger.webp"/>
 
 * Giving your team a *fair* advantage over others
 * Providing an immersive experience
@@ -31,7 +31,7 @@ This got me through a couple years of gaming with only minor complaints with thi
 
 ## ... and then he said... "It's still not good enough!"
 
-<img src="https://media.giphy.com/media/aHat4DbkRrlHa/giphy.gif" width="50%" height="50%"/>
+<img src="img\laughing.webp"/>
 
 I ~~wanted~~ needed more from my audio. I upgraded to a faster Xbox and a real gaming monitor, so now it was time to upgrade my audio setup.
 
@@ -114,7 +114,10 @@ Now, I have a Schitt stack consisting of the following:
 | Middle | [Modi 3+](https://www.schiit.com/products/modi-1) | DAC for PC USB audio (party chat) |
 | Bottom | [Modi 3+](https://www.schiit.com/products/modi-1) | DAC for Xbox optical out audio (game audio) |
 
-**INSERT PICs HERE**
+<img src="img\front-all.JPG"/>
+<img src="img\front-stack.JPG"/>
+<img src="img\left-rear.JPG"/>
+<img src="img\right-rear.JPG"/>
 
 Using a single knob on the Magni, I am able to increase volume to uncomfortable levels, Don't do this, obviously.
 I can mix party chat directly from my PC (keyboard shortcuts work great here).
@@ -175,4 +178,4 @@ I'm super satisfied with this setup and don't see any changes happening until I 
 
 Have fun shootin'
 
-<img src="https://media.giphy.com/media/PESXgIBml46WI/giphy.gif" width="50%" height="50%"/>
+<img src="img\packing-heat.webp"/>
