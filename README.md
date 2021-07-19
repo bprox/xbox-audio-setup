@@ -144,7 +144,7 @@ AT2035 Mic > Focusrite 2i4 > DAW (Reaper) > VoiceMeter Banana > Xbox App
 
 Unfortunately, Xbox users don't have the option to use a single DAC/Amp combo like the [Schitt Hel](https://www.schiit.com/products/hel-2), [Schitt Fulla](https://www.schiit.com/products/fulla-2), [ARC Mk2](https://mayflowerelectronics.com/arc-mk2/), or [GSX 1000](https://www.eposaudio.com/en/us/gaming/products/gsx-1000-gaming-amplifier-1000237).
 
-In all other cases where you are not using the Astro MixAmp (assuming you require party chat) and you don't have high impedance headphones, you will need to mimic the 2 DAC setup. This is because you will need to merge your Xbox audio with your PC audio (party chat).
+In all other cases where you are not using the Astro MixAmp (assuming you require party chat), you will need to mimic the 2 DAC setup. This is because you will need to merge your Xbox audio with your PC audio (party chat).
 
 At a minimum you need:
 
