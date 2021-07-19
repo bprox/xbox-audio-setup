@@ -49,7 +49,7 @@ They were so light and comfy and the sound stage was MUCH better than my origina
 
 Before we dig into the details, I need to get some things out of the way. Microsoft is known for being very picky about what they let into the family.
 
-It is no different when it comes to the Xbox division. Any officially **licensed** Xbox One accessory that connects to your console wired or wirelessly via USB works on Xbox One.
+It is no different when it comes to the Xbox division. Only officially **licensed** Xbox One accessories that connect to your console wired or wirelessly via USB will work on Xbox One.
 
 Currently, the only USB-connected gaming DAC/Amp in this category is the [Astro Gaming's MixAmp Pro TR ($130)](https://www.amazon.com/ASTRO-Gaming-MixAmp-Dolby-Audio-Xbox/dp/B07NSNDHK2/ref=sr_1_4?dchild=1&keywords=astro+mixamp&qid=1625105116&sr=8-4)
 
@@ -108,7 +108,7 @@ After hooking it all up I realized I overlooked 1 crucial detail.
 
 *facepalm*
 
-I need to join these 2 channels somehow so that both are fed into my headphone amp simultaneously. Both game audio (xbox) and party chat (PC) need to be feed into a DAC of some kind and the combined output can then be fed into the headphone amp. The solution was simple -- just get another DAC and some RCA splitter cables to join the output from DAC1 (Xbox game audio) and DAC2 (PC party chat audio) as input into my headphone amp. You don't need to buy a fancy DAC for this. I loved the Schitt Modi already and saw future uses for it, so I just decided to get another one!
+I need to join these 2 channels somehow so that both are fed into my headphone amp simultaneously. Both game audio (Xbox) and party chat (PC) need to be feed into a DAC of some kind and the combined output can then be fed into the headphone amp. The solution was simple -- just get another DAC and some RCA splitter cables to join the output from DAC1 (Xbox game audio) and DAC2 (PC party chat audio) as input into my headphone amp. You don't need to buy a fancy DAC for this. I loved the Schitt Modi already and saw future uses for it, so I just decided to get another one!
 
 Now, I have a Schitt stack consisting of the following:
 
