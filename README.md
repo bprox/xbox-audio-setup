@@ -1,6 +1,6 @@
 # Xbox Audio Setup
 
-Welcome! I created this page as a reference for my future self (and others) who are trying to get the most out of their gaming audio for Xbox.
+Welcome! I created this page as a reference for my future self and others who are trying to get the most out of their gaming audio for Xbox.
 
 **This page is for those who believe good game audio is an important factor in the following:**
 
@@ -43,7 +43,7 @@ At this point, I mostly just wanted more volume so I could crank it when I reall
 
 Around the same time I was itching for better audio, I started a new job and treated myself to some higher-end headphones (Sennheiser HD6XXs). They are high impedance, open-back headphones. This basically means you need extra power to drive them properly (more on this later).
 
-They were so light and comfy that I wanted to use them for gaming -- but going down this path would undoubtedly complicate my setup.
+They were so light and comfy and the sound stage was MUCH better than my original headset so I knew they would make for a great set of cans for gaming. But, going down this path would undoubtedly complicate my setup.
 
 ## Xbox Limitations
 
