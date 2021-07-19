@@ -169,6 +169,7 @@ Since you need a headphone amp with this setup anyway, I'll recommend some low a
 * [Sennheiser HD 58x ($170)](https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones)
 * [Philips SHP9500 ($75)](https://www.amazon.com/Philips-SHP9500S-Precision-Over-ear-Headphones/dp/B00ENMK1DW/ref=pd_lpo_23_t_1/147-2877487-2833135?_encoding=UTF8&pd_rd_i=B00ENMK1DW&pd_rd_r=9b9d0992-6bb1-4401-b4d3-6cd0552d908b&pd_rd_w=D2e1E&pd_rd_wg=XOO89&pf_rd_p=fb1e266d-b690-4b4f-b71c-bd35e5395976&pf_rd_r=1Z0K4HA0X5QCE512BQV5&psc=1&refRID=1Z0K4HA0X5QCE512BQV5)
 * [Beyerdynamic DT 990 PRO ($150)](https://www.amazon.com/beyerdynamic-Over-Ear-Studio-Headphones-construction/dp/B0011UB9CQ/ref=sr_1_3?dchild=1&keywords=bt+990&qid=1626587612&s=electronics&sr=1-3)
+* [Beyerdynamic DT 880 PRO ($230)](https://www.amazon.com/beyerdynamic-880-Over-Ear-Studio-Headphone/dp/B079P9H1SH/ref=mp_s_a_1_4?dchild=1&keywords=bt%2B880&qid=1626718010&sr=8-4&th=1&psc=1)
 
 #### Microphones
 
