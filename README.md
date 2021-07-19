@@ -14,6 +14,10 @@ Welcome! I created this page as a reference for my future self (and others) who 
 
 **If you don't believe this, the good news is you can stop reading and go back to playing Minecraft :)**
 
+## TL;DR
+
+[Skip to this section for your options](#so-you-want-better-game-audio)
+
 ## Problem
 
 This is a typical scenario many find themselves in (myself included):
@@ -68,11 +72,11 @@ So you have 3 options for getting your audio:
 
 I have my own opinions on why I would not purchase the MixAmp for myself. But, if you fall into this category, it will probably be a big enough upgrade that you will be happy.
 
-### Do you have high impedance headphones (need lots of power output) and have a flexible budget?
+### Do you have high impedance headphones (needs a lot of power to drive) and a flexible budget?
 
 Congratulations! We're in the same boat and I see land ahead :)
 
-Since I'm not using the MixAmp to handle all audio output AND mic input, I have some problems to address:
+Since I'm not using the MixAmp to handle all audio output AND mic input, I have 3 problems to address:
 
 1) How will I get game AND chat audio to my headphones?
 2) How will I connect a mic to party chat?
@@ -86,7 +90,7 @@ I am running the Xbox One X, which has optical out for audio (foreshadowing).
 
 While doing some research, I came across a random YouTube comment that mentioned there is an Xbox app for PC.
 
-\* *lightbulb* \*
+\* *AH HA!* \* :bulb:
 
 I can use the Xbox app to connect to party chat and get all my game audio from the optical out!
 
@@ -122,9 +126,19 @@ Now, I have a Schitt stack consisting of the following:
 Using a single knob on the Magni, I am able to increase volume to uncomfortable levels, Don't do this, obviously.
 I can mix party chat directly from my PC (keyboard shortcuts work great here).
 
-### Specifics
+### Party Chat: Getting Specific
 
-AT2035 > Focusrite 2i4 > Reaper > VoiceMeter Banana > Xbox App
+Most good gaming headsets come with microphones that actively block background noise. If you have ever played with someone where you can constantly hear their button-presses/fan/AC/babies/baby-mommas, chances are they are using a cheaper headset that doesn't block background noise.
+
+Since I decided to use a condenser mic, I knew I would need to come up with someway to block my background noise so my teammates could stand playing with me.
+
+My solution was to use my existing audio-recording setup and leverage existing plugins to gate, compress, and limit my voice. 
+
+One challenge I encountered was getting the audio out of my DAW ([Reaper](https://www.reaper.fm/)) and into a input that the Xbox App could be configured to use. Luckily, many before me have solved this problem already and the solution is to use Virtual Audio Cables that come with an app called [VoiceMeter Banana](https://vb-audio.com/Voicemeeter/banana.htm). There are so many ways you can leverage this app to do cool things, but I only use it to solve this particular challenge.
+
+What we are left with is this chain of communication:
+
+AT2035 Mic > Focusrite 2i4 > DAW (Reaper) > VoiceMeter Banana > Xbox App
 
 ## Other Options
 
